@@ -11,9 +11,7 @@
 <body>
     <h1>Bienvenido a la Distribuidora</h1>
     <div class="menu">
-        <a href="<?= base_url('producto') ?>">Lista de Productos</a>
-        <a href="<?= base_url('tiket') ?>">Sacar Tiket</a>
-    </div>
+        <a href="<?= base_url('producto') ?>">Lista de Productos</a>    </div>
 
 </body>
 
